@@ -1,0 +1,13 @@
+fastapi ## for creating API
+uvicorn ## run and host for FastAPI apps
+streamlit ## Streamlit for building web apps
+python-dotenv ## For loading environment variables
+langchain ## Language model chaining
+langchain-community ## Community contributions to LangChain
+langchain-text-splitters ## Text splitting utilities for LangChain
+sentence-transformers ## Chunkings
+faiss-cpu ## Efficient similarity search and clustering
+pypdf ## PDF processing library
+python-multipart ## file upload support
+requests ## HTTP library for making requests
+groq ## Query language for structured data
